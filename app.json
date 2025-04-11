@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "car-counter",
-    "slug": "car-counter",
+    "name": "ai-vibration-tuner",
+    "slug": "ai-vibration-tuner",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

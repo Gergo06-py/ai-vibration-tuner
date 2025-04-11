@@ -1,5 +1,5 @@
 {
-  "name": "car-counter",
+  "name": "ai-vibration-tuner",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -19,7 +19,7 @@
     "@react-navigation/bottom-tabs": "^7.3.9",
     "@react-navigation/elements": "^2.3.7",
     "@react-navigation/native": "^7.0.14",
-    "car-counter": "file:",
+    "ai-vibration-tuner": "file:",
     "expo": "~52.0.43",
     "expo-blur": "~14.0.3",
     "expo-constants": "~17.0.8",
